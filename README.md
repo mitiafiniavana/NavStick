@@ -1,0 +1,2 @@
+# NavStick
+Type of navBar
