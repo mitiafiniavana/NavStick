@@ -1,2 +1,2 @@
 # NavStick
-Type of navBar
+Just a type of navBar.
